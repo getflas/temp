@@ -1,0 +1,2 @@
+def pasha():
+	return None
